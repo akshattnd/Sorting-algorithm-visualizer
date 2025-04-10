@@ -13,6 +13,8 @@ A visual and interactive web app built with **React**, **TypeScript**, and **Fra
   - Bubble Sort
   - Selection Sort
   - Insertion Sort
+  - Merge Sort
+  - Quick Sort
 - 🧠 Written in **TypeScript** with proper typing
 - 📱 Fully responsive design using Tailwind CSS
 
@@ -31,8 +33,8 @@ A visual and interactive web app built with **React**, **TypeScript**, and **Fra
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/sorting-visualizer-ts.git
-cd sorting-visualizer-ts
+git clone https://github.com/akshattnd/Sorting-algorithm-visualizer.git
+cd Sorting-algorithm-visualizer
 
 # 2. Install dependencies
 npm install
